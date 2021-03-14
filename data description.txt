@@ -1,0 +1,45 @@
+gld_price_data [Gold Fixing Price 10:30 A.M. (London time) in London Bullion Market, based in U.S. Dollars]
+Units:  U.S. Dollars per Troy Ounce, Not Seasonally Adjusted
+Frequency:  Daily
+The London Bullion Market Association (LBMA) Gold Price was launched on the 20th March 2015 to replace the historic London Gold Fix. ICE Benchmark Administration (IBA) provides the auction platform, methodology as well as overall independent administration and governance for the LBMA Gold Price, with the LBMA holding the intellectual property rights. The price continues to be set twice daily (at 10:30 and 15:00 London GMT) in US dollars. Sterling and Euro prices are available but they are indicative prices for settlement only. For further information contact the LBMA at Au.Consult@lbma.org.uk or the IBA at iba@theice.com.
+Copyright, 2016, ICE Benchmark Administration.
+Suggested Citation:
+ICE Benchmark Administration Limited (IBA), Gold Fixing Price 10:30 A.M. (London time) in London Bullion Market, based in U.S. Dollars [GOLDAMGBD228NLBM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/GOLDAMGBD228NLBM, October 5, 2020.
+
+--------------------------------------------------------------------------
+
+crude_oil_eu_data [Crude Oil Prices: Brent - Europe]
+Source: U.S. Energy Information Administration  Release: Spot Prices  
+Units:  Dollars per Barrel, Not Seasonally Adjusted
+Frequency:  Daily
+Definitions, Sources and Explanatory Notes
+Suggested Citation:
+U.S. Energy Information Administration, Crude Oil Prices: Brent - Europe [DCOILBRENTEU], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DCOILBRENTEU, October 5, 2020
+
+--------------------------------------------------------------------------
+
+natural_gas_data
+Source: U.S. Energy Information Administration  Release: Natural Gas Spot and Futures Prices (NYMEX)  
+Units:  Dollars per Million BTU, Not Seasonally Adjusted
+Frequency:  Daily
+More information about this series can be found at http://www.eia.gov/dnav/ng/TblDefs/ng_pri_fut_tbldef2.asp
+Suggested Citation:
+U.S. Energy Information Administration, Henry Hub Natural Gas Spot Price [DHHNGSP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DHHNGSP, October 6, 2020.
+
+--------------------------------------------------------------------------
+
+dolla_index_data [Trade Weighted U.S. Dollar Index: Broad, Goods and Services]
+Source: Board of Governors of the Federal Reserve System (US)  Release: H.10 Foreign Exchange Rates  
+Units:  Index Jan 2006=100, Not Seasonally Adjusted
+Frequency:  Daily
+Suggested Citation:
+Board of Governors of the Federal Reserve System (US), Trade Weighted U.S. Dollar Index: Broad, Goods and Services [DTWEXBGS], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DTWEXBGS, October 6, 2020.
+
+---------------------------------------------------------------------------
+
+etf_data [CBOE Gold ETF Volatility Index]
+Units:  Index, Not Seasonally Adjusted
+Frequency:  Daily, Close
+Exchange Traded Funds (ETFs) are shares of trusts that hold portfolios of stocks designed to closely track the price performance and yield of specific indices. Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission.
+Suggested Citation:
+Chicago Board Options Exchange, CBOE Gold ETF Volatility Index [GVZCLS], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/GVZCLS, October 8, 2020.

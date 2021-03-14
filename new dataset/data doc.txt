@@ -1,0 +1,14 @@
+Crude Oil Prices Brent - Europe (1_3_2016-1_3_2021)
+Source: U.S. Energy Information Administration
+unit: Dollars per Barrel
+site: https://fred.stlouisfed.org/series/DCOILBRENTEU
+
+Henry Hub Natural Gas Spot Price 
+Source: U.S. Energy Information Administration
+unit: Dollars per Million Btu
+site: https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm
+
+US Dollar Index Historical Data
+Source: www.investing.com
+unit: Dollars per Million Btu
+site: https://www.investing.com/indices/usdollar
